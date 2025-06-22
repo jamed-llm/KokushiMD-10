@@ -192,6 +192,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Data files - ignore the files but keep directories visible
 *.json
 *.jsonl
 *.csv
