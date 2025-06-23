@@ -15,6 +15,7 @@
 KokushiMD_eval/
 ├── calculate_scores.py          # Main scoring script for evaluating LLM results
 ├── utils.py                     # Utility functions and constants
+├── vis/                         # scripts for making the figures in the paper
 ├── exams/                       # Examination data directory
 │   └── JA/                      # Japanese examination data
 ├── results/                     # LLM evaluation results
