@@ -31,20 +31,6 @@ KokushiMD_eval/
 
 ```
 
-
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```bibtex
-@article{liu2025kokushimd10,
-  title={KokushiMD-10: Benchmark for Evaluating Large Language Models on Ten Japanese National Healthcare Licensing Examinations},
-  author={Liu, Junyu and Yan, Kaiqi and Wang, Tianyang and Niu, Qian and Nagai-Tanima, Momoko and Aoyama, Tomoki},
-  journal={arXiv preprint arXiv:2506.11114},
-  year={2025}
-}
-```
-
 ## License
 
 This dataset is released under the MIT License. See [LICENSE](LICENSE) for details.
